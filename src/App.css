@@ -330,15 +330,17 @@ nav ul li{
   font-size: 2rem;
   padding: 0.5rem 0;
 }
-.footer .fList .footer-box a{
+.footer .fList .footer-box li{
   display: block;
   color: #666;
   font-size: 1rem;
   padding: 1rem 0;
   transition: all .50s ease;
   text-decoration: none;
+  
 }
-.footer .fList .footer-box a:hover{
+
+.footer .fList .footer-box li:hover{
   transform: translateX(-7px);
 }
 .hero h1{
